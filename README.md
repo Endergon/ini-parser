@@ -1,4 +1,4 @@
-**-DNO_STD_LIB - no use stdandard library**
+**-DNO_STD_LIB** - no use stdandard library
 <br/>
 **-DWINDOWS_HEAP_ALLOC** - use windows GetProcessHeap() and HeapAlloc()
 <br/>
