@@ -5,4 +5,4 @@
 **-DPOSIX_MMAP** - use posix mmap() syscall
 <br/>
 <br/>
-I don't know much about automata theory, sorry.
+Does not catch syntax errors, does not merge sections. If there is a desire, maybe I will add it, but that's enough for me.
